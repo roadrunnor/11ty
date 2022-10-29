@@ -1,0 +1,22 @@
+{
+  "name": "publishing-11ty",
+  "version": "1.0.2",
+  "description": "This is the repository for the LinkedIn Learning course Publishing Apps and Sites with GitHub. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkedInLearning/publish-github-2894570.git"
+  },
+  "author": "Sylvain Breton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkedInLearning/publish-github-2894570/issues"
+  },
+  "homepage": "https://github.com/LinkedInLearning/publish-github-2894570#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
