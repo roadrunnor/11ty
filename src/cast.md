@@ -5,7 +5,7 @@ layout: base.njk
 
 <h1 class="display-1">{{title}}</h1>
 
-The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
+The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education. https://www.linkedin.com/learning/learning-github-pages/create-nunjucks-templates?autoSkip=true&autoplay=true&resume=false
 
 Stargazers are fluent in **JavaScript**, so once you connect to their network, simply type in a message into their console.
 
