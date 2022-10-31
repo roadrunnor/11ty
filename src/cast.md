@@ -3,21 +3,23 @@ title: Cast
 layout: base.njk
 ---
 
-<h1 class="display-1">{{title}}</h1>
+<h1 class="display-1 text-secondary mb-0">{{title}}</h1>
 
-The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education. https://www.linkedin.com/learning/learning-github-pages/create-nunjucks-templates?autoSkip=true&autoplay=true&resume=false
+<p class="text-secondary">The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.</p>
 
-Stargazers are fluent in **JavaScript**, so once you connect to their network, simply type in a message into their console.
+<p class="display-6 text-secondary mb-0">11ty at LinkedIn Learning Ray Villalobos</p>
+<a class="text-secondary" style="text-decoration: none;" href="https://www.linkedin.com/learning/learning-github-pages/create-nunjucks-templates?autoSkip=true&autoplay=true&resume=false">LinkedIn Learning - Go</a></br></br>
+<p class="text-secondary" >Stargazers are fluent in **JavaScript**, so once you connect to their network, simply type in a message into their console.</p>
 
 ```js
 console.log("Take me to your leader");
 ```
 
-# Aneirin 
+# Aneirin
 
 ![Aneirin](/images/aneirin_tn.svg)
 
-Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.
+<p class="text-secondary">Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.</p>
 
 | Name                           | Value                                 |
 | ------------------------------ | ------------------------------------- |
@@ -33,7 +35,7 @@ Aneirin is the foremost expert of cold climates in planetoids universe-wide, wit
 | **Dream Job Title**            | Private Island Caretaker              |
 | **Singing Voice**              | alto                                  |
 
-# Celestia 
+# Celestia
 
 ![Celestia](/images/celestia-dristi_tn.svg)
 
@@ -53,7 +55,7 @@ As a mobility engineer, Celestia Dristi helps individuals and companies to impro
 | **Dream Job Title**            | Mime                                      |
 | **Singing Voice**              | soprano                                   |
 
-# Charmaine 
+# Charmaine
 
 ![Charmaine](/images/charmaine_tn.svg)
 
@@ -73,7 +75,7 @@ Charmaine loves fossils from every society and planet, and helping to piece toge
 | **Dream Job Title**            | Olympian Water Poloist                             |
 | **Singing Voice**              | tenor                                              |
 
-# Emmyloo 
+# Emmyloo
 
 ![Emmyloo](/images/emmyloo-em_tn.svg)
 
@@ -93,7 +95,7 @@ If you look up “lexicography” in the dictionary, you will see a photo of Emm
 | **Dream Job Title**            | Interplanetary Theoretical Lexicographer     |
 | **Singing Voice**              | soprano                                      |
 
-# Gill 
+# Gill
 
 ![Gill](/images/gill_tn.svg)
 
@@ -113,7 +115,7 @@ G_tn.svgill carries on generations of tradition in his family as a hydrologist s
 | **Dream Job Title**            | Senior Free-floater                      |
 | **Singing Voice**              | bass                                     |
 
-# Ichabod 
+# Ichabod
 
 ![Ichabod](/images/ichabod_tn.svg)
 
@@ -133,7 +135,7 @@ Operations supervisor Ichabod is unwavering in adherence to the perfection of or
 | **Dream Job Title**            | Senior Free-floater                                                                        |
 | **Singing Voice**              | falsetto                                                                                   |
 
-# Laverne 
+# Laverne
 
 ![Laverne](/images/laverne_tn.svg)
 
@@ -153,7 +155,7 @@ Laverne holds a degree in theoretical physics from Quantumnus University. Having
 | **Dream Job Title**            | Pilates Instructor              |
 | **Singing Voice**              | alto                            |
 
-# Mindigo 
+# Mindigo
 
 ![Mindigo](/images/mindigo_tn.svg)
 
@@ -173,11 +175,11 @@ Transportation Technologist Mindigo earned the nickname “MindiGoGo” because 
 | **Dream Job Title**            | Laser Tag Referee             |
 | **Singing Voice**              | alto                          |
 
-# Nalda 
+# Nalda
 
 ![Nalda](/images/nalda_tn.svg)
 
-_tn.svgAutodidact Nalda began work as a mind reader and universal translator in 2288 when founding the non-profit, Interplanetary Understanders and Lie Detectors, LLC (IULD). Through IULD, Nalda has successfully helped several formerly feuding planetary governments to pause, recognize their similarities, and eventually understand what the other was actually saying, assisting in achieve lasting peace and collaboration.
+\_tn.svgAutodidact Nalda began work as a mind reader and universal translator in 2288 when founding the non-profit, Interplanetary Understanders and Lie Detectors, LLC (IULD). Through IULD, Nalda has successfully helped several formerly feuding planetary governments to pause, recognize their similarities, and eventually understand what the other was actually saying, assisting in achieve lasting peace and collaboration.
 
 | Name                           | Value                                             |
 | ------------------------------ | ------------------------------------------------- |
@@ -193,7 +195,7 @@ _tn.svgAutodidact Nalda began work as a mind reader and universal translator in 
 | **Dream Job Title**            | Poet                                              |
 | **Singing Voice**              | alto                                              |
 
-# Narf 
+# Narf
 
 ![Narf](/images/narf-the-fourth_tn.svg)
 
@@ -213,7 +215,7 @@ Narf the Fourth (known to friends as ‘Norf’) oversees the manufacturing of a
 | **Dream Job Title**            | Hand Model                                   |
 | **Singing Voice**              | baritone                                     |
 
-# Portman 
+# Portman
 
 ![Portman](/images/portman_tn.svg)
 
@@ -232,7 +234,7 @@ No one loves animals, critters, varmints, and beasties as much as Dr. Portman, w
 | **Dream Job Title**            | Superterrestrial Veterinarian Professor                                                |
 | **Singing Voice**              | baritone and falsetto                                                                  |
 
-# Seymour 
+# Seymour
 
 ![Seymour](/images/seymour_tn.svg)
 
@@ -253,7 +255,7 @@ No one loves animals, critters, varmints, and beasties as much as Dr. Portman, w
 | **Dream Job Title**            | Hand Model                           |
 | **Singing Voice**              | bass                                 |
 
-# Tomolor 
+# Tomolor
 
 ![Tomolor](/images/tomolor_tn.svg)
 
@@ -273,7 +275,7 @@ As a professional computer systems analyst, Tomolor has made history in adapting
 | **Dream Job Title**            | Children’s Book Author                                         |
 | **Singing Voice**              | baritone                                                       |
 
-# Trisaphron 
+# Trisaphron
 
 ![Trisaphron](/images/trisaphron_tn.svg)
 
@@ -293,7 +295,7 @@ Trisaphron earned a masters degree in practical operations from Omerania Univers
 | **Dream Job Title**            | Mountain Climber                                                                  |
 | **Singing Voice**              | tenor                                                                             |
 
-# Two 
+# Two
 
 ![Two](/images/two_tn.svg)
 
@@ -313,7 +315,7 @@ Wi_tn.svgth growing interest by organizations in expanding their business on mul
 | **Dream Job Title**            | Professional Traveler                                                          |
 | **Singing Voice**              | tenor                                                                          |
 
-# Violette 
+# Violette
 
 ![Violette](/images/violette_tn.svg)
 
