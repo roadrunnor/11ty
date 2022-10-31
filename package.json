@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/LinkedInLearning/publish-github-2894570#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2"
+    "@11ty/eleventy": "^1.0.2",
+    "markdown-it": "^13.0.1",
+    "markdown-it-attrs": "^4.1.4"
   }
 }
