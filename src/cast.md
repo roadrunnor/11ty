@@ -3,13 +3,11 @@ title: Cast
 layout: base.njk
 ---
 
-<h1 class="display-1 text-secondary mb-0">{{title}}</h1>
+<h1 class="display-1">{{title}}</h1>
 
-<p class="text-secondary">The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.</p>
+The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education. https://www.linkedin.com/learning/learning-github-pages/create-nunjucks-templates?autoSkip=true&autoplay=true&resume=false
 
-<p class="display-6 text-secondary mb-0">11ty at LinkedIn Learning Ray Villalobos</p>
-<a class="text-secondary" style="text-decoration: none;" href="https://www.linkedin.com/learning/learning-github-pages/create-nunjucks-templates?autoSkip=true&autoplay=true&resume=false">LinkedIn Learning - Go</a></br></br>
-<p class="text-secondary" >Stargazers are fluent in **JavaScript**, so once you connect to their network, simply type in a message into their console.</p>
+Stargazers are fluent in **JavaScript**, so once you connect to their network, simply type in a message into their console.
 
 ```js
 console.log("Take me to your leader");
@@ -19,7 +17,7 @@ console.log("Take me to your leader");
 
 ![Aneirin](/images/aneirin_tn.svg)
 
-<p class="text-secondary">Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.</p>
+Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.
 
 | Name                           | Value                                 |
 | ------------------------------ | ------------------------------------- |
